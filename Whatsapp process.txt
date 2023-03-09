@@ -10,4 +10,4 @@ Author - Dhamodharan
 
 -> unseen code
 
--> upload (images , video , document )
+-> upload (images , videos , document )
